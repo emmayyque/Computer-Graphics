@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\CGLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7D03DD-6EB1-4A49-B789-185EDD98930B}|CGLab\\CGLab.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\CGLab\\CGLab\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF7D03DD-6EB1-4A49-B789-185EDD98930B}|CGLab\\CGLab.vcxproj|solutionrelative:CGLab\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\CGLab\\CGLab\\Source.cpp",
+              "RelativeDocumentMoniker": "CGLab\\Source.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\CGLab\\CGLab\\Source.cpp",
+              "RelativeToolTip": "CGLab\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T10:05:37.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
