@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\",
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C3E1F7D-AB17-4FCE-8359-954EB35D2F11}|LabTask2\\LabTask2.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\LabTask2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3C3E1F7D-AB17-4FCE-8359-954EB35D2F11}|LabTask2\\LabTask2.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\LabTask2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3C3E1F7D-AB17-4FCE-8359-954EB35D2F11}|LabTask2\\LabTask2.vcxproj|solutionrelative:LabTask2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3E1F7D-AB17-4FCE-8359-954EB35D2F11}|LabTask2\\LabTask2.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\LabTask2\\LabTask2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3C3E1F7D-AB17-4FCE-8359-954EB35D2F11}|LabTask2\\LabTask2.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\LabTask2\\LabTask2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3C3E1F7D-AB17-4FCE-8359-954EB35D2F11}|LabTask2\\LabTask2.vcxproj|solutionrelative:LabTask2\\LabTask2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\LabTask2\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\LabTask2\\Source.cpp",
               "RelativeDocumentMoniker": "LabTask2\\Source.cpp",
-              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\LabTask2\\Source.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\LabTask2\\Source.cpp",
               "RelativeToolTip": "LabTask2\\Source.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAADgvyEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T16:28:43.584Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LabTask2.cpp",
-              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\LabTask2\\LabTask2.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\LabTask2\\LabTask2.cpp",
               "RelativeDocumentMoniker": "LabTask2\\LabTask2.cpp",
-              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\LabTask2\\LabTask2\\LabTask2.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Lab Tasks\\LabTask2\\LabTask2\\LabTask2.cpp",
               "RelativeToolTip": "LabTask2\\LabTask2.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-15T16:27:52.764Z",
               "EditorCaption": ""

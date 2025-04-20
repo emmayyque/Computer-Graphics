@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{893D6324-F3BE-4392-9068-391596C49C15}|Assignment1\\Assignment1.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\Assignment1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{893D6324-F3BE-4392-9068-391596C49C15}|Assignment1\\Assignment1.vcxproj|solutionrelative:Assignment1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{893D6324-F3BE-4392-9068-391596C49C15}|Assignment1\\Assignment1.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\Assignment1\\Assignment1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{893D6324-F3BE-4392-9068-391596C49C15}|Assignment1\\Assignment1.vcxproj|solutionrelative:Assignment1\\Assignment1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\Assignment1\\Source.cpp",
+              "RelativeDocumentMoniker": "Assignment1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\Assignment1\\Source.cpp",
+              "RelativeToolTip": "Assignment1\\Source.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwE4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T14:30:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment1.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\Assignment1\\Assignment1.cpp",
+              "RelativeDocumentMoniker": "Assignment1\\Assignment1.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\Assignment1\\Assignment1\\Assignment1.cpp",
+              "RelativeToolTip": "Assignment1\\Assignment1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T14:25:45.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

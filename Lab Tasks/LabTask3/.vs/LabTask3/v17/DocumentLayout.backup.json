@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{190C2B55-2B7A-4AE4-B104-AEC254309C49}|LabTask3\\LabTask3.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\LabTask3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190C2B55-2B7A-4AE4-B104-AEC254309C49}|LabTask3\\LabTask3.vcxproj|solutionrelative:LabTask3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190C2B55-2B7A-4AE4-B104-AEC254309C49}|LabTask3\\LabTask3.vcxproj|C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\LabTask3\\LabTask3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{190C2B55-2B7A-4AE4-B104-AEC254309C49}|LabTask3\\LabTask3.vcxproj|solutionrelative:LabTask3\\LabTask3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 152,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\LabTask3\\Source.cpp",
+              "RelativeDocumentMoniker": "LabTask3\\Source.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\LabTask3\\Source.cpp*",
+              "RelativeToolTip": "LabTask3\\Source.cpp*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAD4BAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T22:48:32.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabTask3.cpp",
+              "DocumentMoniker": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\LabTask3\\LabTask3.cpp",
+              "RelativeDocumentMoniker": "LabTask3\\LabTask3.cpp",
+              "ToolTip": "C:\\Users\\Muhammad Ali Khalil\\source\\repos\\BSCG\\Assignments\\LabTask3\\LabTask3\\LabTask3.cpp",
+              "RelativeToolTip": "LabTask3\\LabTask3.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T22:47:18.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(19,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(65,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(97,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(97,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(97,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(106,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(154,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(163,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(237,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(244,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\Assignment1\Source.cpp(251,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Assignment1.vcxproj -> C:\Users\Muhammad Ali Khalil\source\repos\BSCG\Assignments\Assignment1\x64\Debug\Assignment1.exe

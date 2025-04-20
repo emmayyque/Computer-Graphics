@@ -11,7 +11,6 @@ void MyInit() {
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
 	gluOrtho2D(0.0, 1400.0, 0.0, 800.0);
-
 }
 
 
@@ -216,7 +215,7 @@ void transformations() {
 	glMatrixMode(GL_MODELVIEW);
 	glLoadIdentity();
 	glPushMatrix();
-	glTranslatef(250.0, 240.0, 1.0);
+	glTranslatef(-250.0, 240.0, 1.0);
 	triangle();
 	glPopMatrix();
 
